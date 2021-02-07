@@ -35,3 +35,9 @@ Identify the form of the noun-adjective phrase tempore certo, and explain why it
 Ablative, singular, neuter. It is in the ablative because it is talking about a specific moment in time. 
 
 
+C. Translation
+Hercules came to King Dexamenus in hospitality, took his daughter's virginity, and he wanted to take her as his wife. 
+When Hercules was absent, Eurytion's centaurs demanded Deianiram as his wife. 
+Because they feared the father, they promised to give.
+At a certain time, the centaurs and brothers came to marriage.
+Hercules interrupted and killed the centaurs and married Deianiram.
