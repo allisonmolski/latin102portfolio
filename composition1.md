@@ -1,9 +1,11 @@
-Cum Hercules perveniret Oechaliam, rogavit ducere in coniugium Iolen.
+**Needs revisions**
 
-Quia eius pater Eurytus nollet, Hercules petivit Oechaliae.
+Cum Hercules perveniret🤔 Oechaliam, rogavit ducere in coniugium Iolen.
 
-Hercules duxit interfecti est eius parentes.
+Quia eius pater Eurytus nollet, Hercules petivit Oechaliae❌.
 
-Eius parentes interfectus est Iole passus est.
+Hercules duxit interfecti❌ est eius parentes.
 
-Cum interficeret omnes ei, misit Iolen Deianirae.
+Eius parentes interfectus est❌ Iole passus est.
+
+Cum interficeret omnes ei❌, misit Iolen Deianirae❌.
