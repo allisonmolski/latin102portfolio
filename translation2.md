@@ -1,31 +1,32 @@
 A. Grammatical Analysis
+
 Deianira, uxor Herculis,
 
 flumen magnum, 
  
 >cui nomen Evenus erat, 
 
-non poterat transire, 
+non *poterat* *transire*, 
 
 et 
 
 centaurum Nessum, 
   
- >qui filius Ixionis et Nubis erat, 
+ >qui filius Ixionis et Nubis *erat*, 
 
-auxilium rogavit. 
+auxilium *rogavit*. 
 
- >Hic Deianiram sublatam in flumine 
+ >Hic Deianiram *sublatam* in flumine 
 
-ipso uiolare uoluit. 
+ipso *uiolare* *uoluit*. 
 
 huc Hercules 
   
-  >cum interuenisset 
+  >cum *interuenisset* 
   
-  >et Deianira cum fidem eius implorasset, 
+  >et Deianira cum fidem eius *implorasset*, 
 
-Nessum sagittis confixit.
+Nessum sagittis *confixit*.
 
 ille 
   
@@ -35,24 +36,25 @@ ille
      
      >>sagittas 
         
-        >>>Hydrae Lernaeae felle tinctas 
+        >>>Hydrae Lernaeae felle *tinctas* 
      
-     >>magnam vim habere, 
+     >>magnam vim *habere*, 
 
 sanguinem suum 
      
      >>exceptum 
 
-Deianirae dedit 
+Deianirae *dedit *
 
 et 
   
   >id philtrum esse 
 
-dixit.
+*dixit*.
 
 
 B. Grammatical Questions
+
 Identify the antecedent of cui, and its gender and number. Then explain what case cui is, and how it functions in the relative clause. (I.e., why is cui in this case?)
   The antecedent is flumen, neuter singular. Cui is in the dative case because it is describing the river as an indirect object. 
 
@@ -91,4 +93,5 @@ Cum moriar
 
 
 C. Translation
+
 Deianira, the wife of Hercules, was not able to cross the large river, whose name was Evenus, and asked the centaur, Nessus, who was the son of Ixion and Nephele, for help. This man wished to injure, after having liften Deianira across the river himself. To this place, when Hercules had intervened and when Deianira implored for his protection, he pierced Nessus with arrows. That man, as he was dying, when he knew that the arrows of the Lernean Hydra, which had been moistened with poisonous liquid, had great strength, gave his blood, which had been taken out, to Deianira and said that it was a love potion.
