@@ -60,25 +60,33 @@ Identify the form of transire. Explain why you placed it in the clause you chose
   present active infinitive. It is in this clause because it is paired with the verb poterant as a 
 
 sublatam is from a verb that is a compound of sub plus a verb you should know very well. Identify the form of this participle (which for participles means: gender, case, number, tense voice). Find the dictionary entry for this word in thed Lewis-Short’s Latin Dictionary, and give its URN here.
+
 singular, feminine, accusative, perfect, passive
 urn:cite2:hmt:ls.markdown:n17964
 
 Identify the form of sagittis. Why does Hyginus use this case?
+
 accusative, plural, feminine. Hyginus uses this case because the arrows are the direct object. 
 
 Identify the form of moriens.
+
 infinitve present participle
 
 Identify felle. Why does Hyginus use this case?
+
 singular, neuter, ablative
 
 Identify the form of tinctas.
+
 feminine, plural, accusative, perfect passive participle
 
 Identify the form of exceptum.
 
+neuter, singular, accusative
 
 William Faulkner’s novel As I lay dying takes its title from an English translation of a single word in Odyssey 11.424. In Greek, where participles function very differently from English but similarly to Latin, that word is a present active participle. Suggest one or more possible translations of Faulkner’s title into Latin.
+
+Cum moriar
 
 
 
