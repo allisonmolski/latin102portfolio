@@ -16,7 +16,7 @@ third plural imperfect subjunctive active: immolarent
 
 third plural perfect indicative active: immolaverunt. They sacrificed. 
 
-perfect infinitive passive: immolatus
+perfect infinitive passive: immolatus/a/um esse/ 
 
 third plural pluperfect subjunctive active: immolavissent
 
@@ -27,13 +27,13 @@ third plural present subjunctive passive: polliceantur.
 
 third plural imperfect indicative passive: pollicebantur. They were promising. 
 
-present infinitive passive: pollicitus. 
+present infinitive passive: polliceri. 
 
 third plural imperfect subjunctive passive: pollicerentur. 
 
 third plural perfect indicative passive: pollicti sunt. They promised. 
 
-perfect active passive: polliceor. (active/passive?)
+perfect passive infinitive: pollictus/a/um esse.
 
 third plural pluperfect subjunctive passive: polliciti essent. 
 
@@ -44,10 +44,10 @@ third plural pluperfect subjunctive passive: polliciti essent.
 > cui- dative because Eurytion is the indirect object. Antecedent- Eurytion- masculine singular
 3. Eurytion, whose brothers were centaurs, expected to marry Deianira.
 > cuius- genitive because he is the brother of the centaurs. Antecedent- Eurytion- masculine singular
-4. Hercules killed Nessus, who tried to rape Deianira.❌ 
+4. Nessus, whom Hercules killed, tried to rape Deianira.
 > quem- accusative- acts as direct object. Antecedent- Nessus- masculine, singular
-5. Nessus gave Deianira a vial of blood, which Hercules was poisoned by.
-> quem- ❌accusative- acts as direct object. Antecedent- vial- masculine, singular
+5. Nessus gave Deianira a vial of blood, by which Hercules was poisoned.
+> quo- ablative- by means of. Antecedent- vial- masculine, singular
 6. In Egypt, Hercules killed the priest Busiris, who regularly sacrificed foreigners.
 > qui- nominative- it further describes Busiris. Antecedent- Busiris- masculine, singular
 7. Prometheus’ heart was devoured by an eagle, which Hercules shot dead with his arrows.
