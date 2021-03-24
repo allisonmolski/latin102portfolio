@@ -39,12 +39,12 @@ third plural pluperfect subjunctive passive: polliciti essent.
 
 
 1. The brothers, with whom Eurytion came to the wedding, were violent creatures.
-> cum quibus- accusative❌ because they are the direct object of the sentence. Antecedent- the brothers- masculine, singular.
+> cum quibus- ablative because cum always takes the ablative. Antecedent- the brothers- masculine, plural.
 2. Dexamenus was afraid of Eurytion, to whom Deanira was promised in marriage.
-> cui- dative because Eurytion is the indirect❌ object. Antecedent- Eurytion- masculine singular
+> cui- dative because Eurytion is the indirect object. Antecedent- Eurytion- masculine singular
 3. Eurytion, whose brothers were centaurs, expected to marry Deianira.
-> cuius- genitive because he is the brother OF the centaurs. Antecedent- Eurytion- masculine singular
-4. Hercules killed Nessus, who tried to rape Deianira.❌ *Keep same syntax as indepdendent clauses: you've switched active verb to passive*
+> cuius- genitive because he is the brother of the centaurs. Antecedent- Eurytion- masculine singular
+4. Hercules killed Nessus, who tried to rape Deianira.❌ 
 > quem- accusative- acts as direct object. Antecedent- Nessus- masculine, singular
 5. Nessus gave Deianira a vial of blood, which Hercules was poisoned by.
 > quem- ❌accusative- acts as direct object. Antecedent- vial- masculine, singular
