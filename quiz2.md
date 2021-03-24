@@ -53,8 +53,8 @@ third plural pluperfect subjunctive passive: polliciti essent.
 7. Prometheus’ heart was devoured by an eagle, which Hercules shot dead with his arrows.
 > quem- accusative- it further describes the eagle. Antecedent- eagle- masculine singular
 8. Lycus, who was killed by Hercules, tried to kill Megara and her sons Therimachus and Ophites. 
-> quem-❌ accusative- acts as direct object of Hercules killing. Antecedent- Lycus- masculine❌ singular
-9. Apollo refused to give Hercules an oracle, who stole a tripod from the temple at Delphi.❌
+> qui- nominative- It is the subject of the sentence. Antecedent- Lycus- masculine singular
+9. Apollo refused to give Hercules an oracle, who stole a tripod from the temple at Delphi.
 > cui- dative- acts as indirect object of Apollo's action. Antecedent- Hercules- masculine, singular
-10. Juno threw Hercules into a fit of madness, who killed his own wife Megara.❌
-> cui- acts as indirect object of Juno's actions. Antecedent- Hercules- masculine, singular
+10. Hercules, whom Juno threw into a fit of madness, killed his own wife Megara.
+> cui- acts as direct object of Juno's actions. Antecedent- Hercules- masculine, singular
