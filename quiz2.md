@@ -1,5 +1,42 @@
 **Needs revisions**
 
+Verb Synopses
+
+immolo, immolare, immolavi, immolatus: to sacrifice
+
+third plural present indicative active: immolant. They are sacrificing. 
+
+third plural present subjunctive active: immolent
+
+third plural imperfect indicative active: immolabant. They were sacrificing. 
+
+present infinitive active: immolare. 
+
+third plural imperfect subjunctive active: immolarent
+
+third plural perfect indicative active: immolaverunt. They sacrificed. 
+
+perfect infinitive passive: immolatus
+
+third plural pluperfect subjunctive active: immolavissent
+
+
+third plural present indicative passive: pollicentur. They are promising. 
+
+third plural present subjunctive passive: polliceantur. 
+
+third plural imperfect indicative passive: pollicebantur. They were promising. 
+
+present infinitive passive: pollicitus. 
+
+third plural imperfect subjunctive passive: pollicerentur. 
+
+third plural perfect indicative passive: pollicti sunt. They promised. 
+
+perfect active passive: polliceor. (active/passive?)
+
+third plural pluperfect subjunctive passive: polliciti essent. 
+
 
 1. The brothers, with whom Eurytion came to the wedding, were violent creatures.
 > cum quibus- dative❌ because they are the direct object of the sentence. Antecedent- the brothers- masculine, singular.
