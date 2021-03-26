@@ -51,10 +51,10 @@ third plural pluperfect subjunctive passive: polliciti essent.
 6. In Egypt, Hercules killed the priest Busiris, who regularly sacrificed foreigners.
 > qui- nominative- it further describes Busiris. Antecedent- Busiris- masculine, singular
 7. Prometheus’ heart was devoured by an eagle, which Hercules shot dead with his arrows.
-> quem- accusative- it further describes the eagle. Antecedent- eagle- feminine singular
+> quem- accusative- it is the direct object. Antecedent- eagle- feminine singular
 8. Lycus, who was killed by Hercules, tried to kill Megara and her sons Therimachus and Ophites. 
 > qui- nominative- It is the subject of the sentence. Antecedent- Lycus- masculine singular
 9. Apollo refused to give Hercules an oracle, who stole a tripod from the temple at Delphi.
 > cui- dative- acts as indirect object of Apollo's action. Antecedent- Hercules- masculine, singular
 10. Hercules, whom Juno threw into a fit of madness, killed his own wife Megara.
-> cui- acts as direct object of Juno's actions. Antecedent- Hercules- masculine, singular
+> quem- accusative- acts as direct object of Juno's actions. Antecedent- Hercules- masculine, singular
