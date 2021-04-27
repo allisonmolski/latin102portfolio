@@ -1,9 +1,11 @@
-Cum Deianira, filiae Oeneus et uxoris Hercules, vidisse Iole juveniam bellulam adductam esse, coepit machinari rationem ne ad privabum conjugis.
+**Needs revisions**
 
-Misit famulum dare Herculi vestum tinctum sanguinis Nessus, quem putavit philtrum.
+Cum Deianira, filiae Oeneus et uxoris Hercules, vidisse❌ Iole juveniam bellulam adductam esse, coepit machinari rationem ne ad privabum conjugis❌.
 
-Hercules induit quem statim induebat.
+Misit famulum dare❌ **We need a purpose construction** Herculi vestum tinctum sanguinis Nessus, quem putavit philtrum.
 
-Hercules famulum misit mari, quem Deianira misit adductere vestum.
+Hercules induit quem❌ statim induebat.
 
-Nonulli dicunt Herculem convertere immortalis, sed Deianira ipsam interfecit propter hunc. 
+Hercules famulum misit mari❌, quem Deianira misit adductere❌**Again need a purpose constructions** vestum.
+
+Nonulli dicunt👌 Herculem convertere immortalis❌, sed Deianira ipsam❌ interfecit propter hunc❌. 
