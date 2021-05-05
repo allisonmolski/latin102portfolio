@@ -1,6 +1,6 @@
 Translation
 
-One day, Hercules cleaned up the manure of King Augeas’s stall for the greater part, with Jupiter helping; with the river having been sent, he washed out all the manure.
+In one day, Hercules cleaned up the manure of King Augeas’s stall for the greater part, with Jupiter helping; with the river having been let in, he washed out all the manure.
 He brought up the living bull, out of Crete to Mycenae, with whom Pasiphae had laid.
 Hercules killed the king of Thrace, Diomedes, and his four horses, who fed upon human flesh, with his slave Abderus; moreover, the names of the horses were Podargus, Lampon, Xanthus, and Dinus. 
 
