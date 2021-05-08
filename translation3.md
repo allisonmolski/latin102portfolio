@@ -1,3 +1,5 @@
+**Needs revisions**
+
 Translation
 
 In one day, Hercules cleaned up the manure of King Augeas’s stall for the greater part, with Jupiter helping; with the river having been let in, he washed out all the manure.
@@ -7,8 +9,8 @@ Hercules killed the king of Thrace, Diomedes, and his four horses, who fed upon 
 A. Grammatical Analysis
 Augeae regis stercus bobile uno die *purgavit*,
 >maiorem partem Iove *adiutore*; 
->>flumine *admisso*
->totum stercus *abluit*.
+>>flumine *admisso* 
+>totum stercus *abluit*. ❌ **This is a main clause.**
 
 *taurum* cum quo Pasiphae 
 >concubuit ex Creta insula Mycenis vivum *adduxit*.
@@ -18,14 +20,14 @@ cum Abdero famulo *interfecit*;
 >>equorum autem nomina Podargus Lampon Xanthus Dinus.
 
 B. Grammatical Questions
-1. Iove is ablative, it is talking about the means of doing something.
+1. Iove is ablative, it is talking about the means of doing something.❌ **Ablative, yes: not means.**
 2. Stercus is accusative because it is the direct object of the verb purgavit, meaning to clean.
-3. maiorem is accusative, masculine, singular
+3. maiorem is accusative, masculine, singular ❌ **Degree? Positive, comparative, superlative?**
 4. Absolute ablative
 5. Masculine, plural, nominative, and the antecedent are the four horses
 6. The form of to be is implied in the sentence in the past tense. It is referring to the names of the horses "the horses were named"
 
-C. Literary Commentary
+C. Literary Commentary **Nice observations!**
 In this passage, the phrase “with his slave Abderus” to describe who 
 is killing the king and horses in addition to Hercules is very interesting. 
 This is because it highlights the role of the servant to listen and follow everything 
