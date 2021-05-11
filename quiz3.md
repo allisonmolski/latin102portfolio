@@ -47,6 +47,6 @@ Part 4.
 4. cruciatu magno
 5. cruciatu maiore
 6. cruciatu maximo
-7. partem magnum 
-8. partem maiorum
-9. partem maximum
+7. partem magnam 
+8. partem maiorem
+9. partem maximam
