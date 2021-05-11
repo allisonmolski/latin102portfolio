@@ -18,9 +18,11 @@ centaurum Nessum,
 
 auxilium *rogavit*. 
 
- >Hic Deianiram❌ *sublatam* in flumine 
-
-ipso *uiolare* *uoluit*. 
+ Hic Deianiram
+ 
+ > *sublatam* in flumine ipso 
+ 
+ *uiolare* *uoluit*. 
 
 huc Hercules 
   
@@ -58,10 +60,10 @@ et
 B. Grammatical Questions
 
 Identify the antecedent of cui, and its gender and number. Then explain what case cui is, and how it functions in the relative clause. (I.e., why is cui in this case?)
-  The antecedent is flumen, neuter singular. Cui is in the dative case because it is describing the river as an indirect object.❌ 
+  The antecedent is flumen, neuter singular. Cui is in the dative case because it is describing the river as the posessor of the name Evenus. 
 
 Identify the form of transire. Explain why you placed it in the clause you chose.
-  present active infinitive. It is in this clause because it is paired with the verb poterant as a ❓
+  present active infinitive. It is in this clause because it is paired with the verb poterant.
 
 sublatam is from a verb that is a compound of sub plus a verb you should know very well. Identify the form of this participle (which for participles means: gender, case, number, tense voice). Find the dictionary entry for this word in thed Lewis-Short’s Latin Dictionary, and give its URN here.
 
@@ -70,15 +72,15 @@ urn:cite2:hmt:ls.markdown:n17964
 
 Identify the form of sagittis. Why does Hyginus use this case?
 
-accusative, plural, feminine.❌ Hyginus uses this case because the arrows are the direct object. 
+ablative, plural, feminine. Hyginus uses this case because the arrows are the means /instrument. 
 
 Identify the form of moriens.
 
-infinitve❌ present participle
+present participle, active, masculine, nominative, singular
 
 Identify felle. Why does Hyginus use this case?
 
-singular, neuter, ablative **Why?** ❌
+singular, neuter, ablative. It expresses instrument
 
 Identify the form of tinctas.
 
@@ -86,7 +88,7 @@ feminine, plural, accusative, perfect passive participle
 
 Identify the form of exceptum.
 
-neuter, singular, accusative ❌
+perfect participle, passive, masculine, singular, accusative.
 
 William Faulkner’s novel As I lay dying takes its title from an English translation of a single word in Odyssey 11.424. In Greek, where participles function very differently from English but similarly to Latin, that word is a present active participle. Suggest one or more possible translations of Faulkner’s title into Latin.
 
