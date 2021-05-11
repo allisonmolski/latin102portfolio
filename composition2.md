@@ -1,4 +1,4 @@
-**Needs revisions**
+**Full credit**
 
 Cum Deianira, filiae Oeneus et uxoris Hercules, videret Iolen puellam pulchram adductam esse, coepit machinari ne ad privaretur conjuge.
 
