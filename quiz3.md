@@ -1,7 +1,7 @@
 **Needs revisions**
 
 Part 1
-1. uno- ūno, āre.❌  die- dies
+1. uno- ūnus, una, unum.  die- dies, diei
 2. totus,-a,-um. Stercus, stercoris n.
 3. cervus, cervi, m. ferox, ferocis, m. 
 4. tantus, a, um. vis, vis, f.
