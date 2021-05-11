@@ -1,4 +1,4 @@
-**Needs revisions**
+**Full credit**
 
 Part 1
 1. uno- ūnus, una, unum.  die- dies, diei
