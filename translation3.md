@@ -7,27 +7,31 @@ He brought up the living bull, out of Crete to Mycenae, with whom Pasiphae had l
 Hercules killed the king of Thrace, Diomedes, and his four horses, who fed upon human flesh, with his slave Abderus; moreover, the names of the horses were Podargus, Lampon, Xanthus, and Dinus. 
 
 A. Grammatical Analysis
+
 Augeae regis stercus bobile uno die *purgavit*,
->maiorem partem Iove *adiutore*; 
->>flumine *admisso* 
->totum stercus *abluit*. ❌ **This is a main clause.**
+maiorem partem 
+>Iove *adiutore*; 
+>flumine *admisso* 
+totum stercus *abluit*. 
 
-*taurum* cum quo Pasiphae 
->concubuit ex Creta insula Mycenis vivum *adduxit*.
+*taurum* 
+>cum quo Pasiphae concubuit 
+ex Creta insula Mycenis vivum *adduxit*.
 
->Diomedem Thraciae regem et equos quattuor eius, qui carne humana *vescebantur*, 
+Diomedem Thraciae regem et equos quattuor eius, 
+>qui carne humana *vescebantur*, 
 cum Abdero famulo *interfecit*; 
->>equorum autem nomina Podargus Lampon Xanthus Dinus.
+equorum autem nomina Podargus Lampon Xanthus Dinus.
 
 B. Grammatical Questions
-1. Iove is ablative, it is talking about the means of doing something.❌ **Ablative, yes: not means.**
+1. Iove is ablative, it is ablative absolute
 2. Stercus is accusative because it is the direct object of the verb purgavit, meaning to clean.
-3. maiorem is accusative, masculine, singular ❌ **Degree? Positive, comparative, superlative?**
-4. Absolute ablative
+3. maiorem is accusative, feminine, singular, comparitive
+4. Ablative absolute
 5. Masculine, plural, nominative, and the antecedent are the four horses
 6. The form of to be is implied in the sentence in the past tense. It is referring to the names of the horses "the horses were named"
 
-C. Literary Commentary **Nice observations!**
+C. Literary Commentary 
 In this passage, the phrase “with his slave Abderus” to describe who 
 is killing the king and horses in addition to Hercules is very interesting. 
 This is because it highlights the role of the servant to listen and follow everything 
