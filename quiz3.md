@@ -42,11 +42,11 @@ Amazonus, Amazona, Amazonum.
 
 Part 4.
 1. afflatu magno 
-2. afflatum maium
-3. afflatum maximum
-4. cruciatum magnum
-5. cruciatum maium
-6. cruciatum maximum
+2. afflatu maiore
+3. afflatu maximo
+4. cruciatu magno
+5. cruciatu maiore
+6. cruciatu maximo
 7. partem magnum 
-8. partem maium
+8. partem maiorum
 9. partem maximum
