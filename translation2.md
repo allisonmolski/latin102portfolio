@@ -92,7 +92,7 @@ perfect participle, passive, masculine, singular, accusative.
 
 William Faulkner’s novel As I lay dying takes its title from an English translation of a single word in Odyssey 11.424. In Greek, where participles function very differently from English but similarly to Latin, that word is a present active participle. Suggest one or more possible translations of Faulkner’s title into Latin.
 
-Cum moriar **Possible.  Can you think of a way to do that with a participle?**
+Cum moriar 
 
 
 
@@ -102,4 +102,4 @@ Deianira, the wife of Hercules, was not able to cross the large river, whose nam
 
 This man wished to injure, after having liften Deianira across the river himself. 
 
-To this place🤔, when Hercules had intervened and when Deianira implored for his protection, he pierced Nessus with arrows. That man, as he was dying, when he knew that the arrows of the Lernean Hydra, which had been moistened with poisonous liquid, had great strength, gave his blood, which had been taken out, to Deianira and said that it was a love potion.
+To this place, when Hercules had intervened and when Deianira implored for his protection, he pierced Nessus with arrows. That man, as he was dying, when he knew that the arrows of the Lernean Hydra, which had been moistened with poisonous liquid, had great strength, gave his blood, which had been taken out, to Deianira and said that it was a love potion.
